@@ -3,7 +3,6 @@ import port2 from "../img/portImages/port1.jpg";
 import port3 from "../img/portImages/port2.jpg";
 import port4 from "../img/portImages/port3.jpg";
 import port6 from "../img/portImages/port5.jpg";
-import port7 from "../img/portImages/port6.jpg";
 
 const portfolios = [
   {
@@ -24,22 +23,22 @@ const portfolios = [
     title: "Viet API Tuyen Dung Viec Lam",
     tech: "Django, MySQL, Django Rest Framework",
   },
-  {
-    id: 3,
-    category: "PHP",
-    link: "https://github.com/vongovantien/eshopapp",
-    icon: "Visit",
-    image: port3,
-    title: "WebSite Ban Nuoc Hoa Nam Nu",
-    tech: "Laravel, MySql",
-  },
+  // {
+  //   id: 3,
+  //   category: "PHP",
+  //   link: "https://github.com/vongovantien/eshopapp",
+  //   icon: "Visit",
+  //   image: port3,
+  //   title: "WebSite Ban Nuoc Hoa Nam Nu",
+  //   tech: "Laravel, MySql",
+  // },
   {
     id: 4,
     category: "PHP",
     link: "https://github.com/vongovantien/QuanLiXaydung",
     icon: "Visit",
     image: port3,
-    title: "Quan Li Du An Xay Dung",
+    title: "Quan Li Cua Hang Xay Dung",
     tech: "Laravel, MySql",
   },
   {
@@ -51,15 +50,15 @@ const portfolios = [
     title: "Website Tuyen Dung Viec Lam",
     tech: "ReactJS, Redux",
   },
-  {
-    id: 6,
-    category: "Java",
-    link: "https://github.com/vongovantien/JavaCareerApp",
-    icon: "Visit",
-    image: port4,
-    title: "Website Tuyen Dung Viec Lam",
-    tech: "SpringMVC, Hibernate",
-  },
+  // {
+  //   id: 6,
+  //   category: "Java",
+  //   link: "https://github.com/vongovantien/JavaCareerApp",
+  //   icon: "Visit",
+  //   image: port4,
+  //   title: "Website Tuyen Dung Viec Lam",
+  //   tech: "SpringMVC, Hibernate",
+  // },
   {
     id: 7,
     category: "Python",
@@ -69,33 +68,33 @@ const portfolios = [
     title: "Website Ban Sach",
     tech: "Flask, MySql",
   },
-  {
-    id: 8,
-    category: "PHP",
-    link: "www.youtube.com",
-    icon: "Visit",
-    image: port6,
-    title: "Viet API Blog",
-    tech: "Laravel, MySql",
-  },
-  {
-    id: 9,
-    category: "UX/UI",
-    link: "www.youtube.com",
-    icon: "Visit",
-    image: port4,
-    title: "Template Website Coffee",
-    tech: "Figma",
-  },
-  {
-    id: 10,
-    category: "C#",
-    link: "www.youtube.com",
-    icon: "Visit",
-    image: port6,
-    title: "Website Ban Rau Cu",
-    tech: "EF, MSSQL, MVC Core",
-  },
+  // {
+  //   id: 8,
+  //   category: "PHP",
+  //   link: "www.youtube.com",
+  //   icon: "Visit",
+  //   image: port6,
+  //   title: "Viet API Blog",
+  //   tech: "Laravel, MySql",
+  // },
+  // {
+  //   id: 9,
+  //   category: "UX/UI",
+  //   link: "www.youtube.com",
+  //   icon: "Visit",
+  //   image: port4,
+  //   title: "Template Website Coffee",
+  //   tech: "Figma",
+  // },
+  // {
+  //   id: 10,
+  //   category: "C#",
+  //   link: "www.youtube.com",
+  //   icon: "Visit",
+  //   image: port6,
+  //   title: "Website Ban Rau Cu",
+  //   tech: "EF, MSSQL, MVC Core",
+  // },
   {
     id: 11,
     category: "C#",

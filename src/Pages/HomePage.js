@@ -16,7 +16,7 @@ function HomePage() {
           <span> Van Tien</span>
         </h1>
         <p className="h-sub-text">
-          I'm a web designer & front‑end developer focused on
+          I am a student & intern developer focused on
           crafting clean & user‑friendly experiences, I am passionate about
           building excellent software that improves the lives of those around
           me.

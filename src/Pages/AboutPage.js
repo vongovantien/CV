@@ -31,17 +31,12 @@ function AboutPage() {
         <ServicesSection
           image={design}
           title={"Web design"}
-          text={"Lorem ipsum dolor sit amet consectetur adipisicing elit."}
+          text={"Coding static pages, building commercial website, Restful API"}
         />
         <ServicesSection
           image={intelligence}
-          title={"Mobile Application"}
-          text={"Lorem ipsum dolor sit amet consectetur adipisicing elit."}
-        />
-        <ServicesSection
-          image={gamedev}
           title={"Desktop Application"}
-          text={"Lorem ipsum dolor sit amet consectetur adipisicing elit."}
+          text={"Product Management with .Net Framework"}
         />
       </div>
     </div>

@@ -1,5 +1,4 @@
 import React from "react";
-import avatar from "../img/avatar.png";
 import {
   faEnvelopeOpen,
   faBriefcase,
@@ -15,7 +14,7 @@ function Navbar() {
     <div className="NavBar">
       <nav className="nav">
         <div className="profile">
-          <img src={avatar} alt="" />
+          <img src='https://res.cloudinary.com/dgct8zpvp/image/upload/v1641974305/CV/avatar_g5itxi.jpg' alt="avatar" />
         </div>
 
         <ul className="nav-items">

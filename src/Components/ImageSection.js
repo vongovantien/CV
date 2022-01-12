@@ -12,9 +12,8 @@ function ImageSection() {
           <span>Vo Ngo Van Tien</span>
         </h4>
         <p className="about-text">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum
-          necessitatibus perferendis numquam dolorem cumque facilis. Desir per
-          po la ta doso vi slone ve?
+          The goal will be to become a software engineer in the future. I
+          hope to be able to develop my work and pursue my passion.
         </p>
         <div className="about-details">
           <div className="left-section">
